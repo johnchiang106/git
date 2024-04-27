@@ -1,10 +1,9 @@
 # This is a practice repository with Hahow course: **Git - 軟體工程師必備的版本管理時光機** 
 
-::: info
+> [!NOTE]
 **course tool:** [installation tutorial link](https://gist.github.com/kewang/8c478078f2a98f32f5bcbfca1348a8a1#file-readme-md)  
 git tree .  
-ctrl+b then press d to leave git-tree
-:::
+ctrl+b then press d to leave git-tree  
 
 ## common commands
 - **git remote add origin \<remote repository url>**  
